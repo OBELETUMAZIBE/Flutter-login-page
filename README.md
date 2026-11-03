@@ -184,8 +184,6 @@ Other `TODO` placeholders in the file:
 - The current auth result is only a SnackBar — **nothing is stored or sent** until you add your own backend.
 - This project was created for **learning and assignment purposes**.
 
----
+---<img width="960" height="540" alt="Screenshot 2026-11-03 155533" src="https://github.com/user-attachments/assets/9d7edf59-3178-47e7-9a7c-5d40f64ac3d7" />
+<img width="960" height="540" alt="Screenshot 2026-11-03 155511" src="https://github.com/user-attachments/assets/7b774ab9-bbb2-46ce-a6bf-fa3dd1680825" />
 
-## 📄 License
-
-This project is submitted as an academic assignment and is not licensed for commercial use.
